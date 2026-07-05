@@ -38,3 +38,14 @@ console.log(typeof anotherId);
 //null typeof is object
 
 //reference typeof is object but function is function object
+
+
+
+//*************************************************************************************** 
+
+//stack(primitive)   ,   heap(Non-primitive)
+
+//stack gets a copy while heap is passed by reference
+//so if you change in heap then the value gets changed but in case of stack you get a copy of variable
+
+
