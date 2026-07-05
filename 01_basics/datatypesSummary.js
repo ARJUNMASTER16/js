@@ -33,3 +33,8 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+
+
+//null typeof is object
+
+//reference typeof is object but function is function object
