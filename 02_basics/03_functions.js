@@ -47,7 +47,7 @@ function calculateCartPrice(val1, val2, ...num1){      //(...num1) rest case
 
 const user = {
     username: "hitesh",
-    prices: 199
+    price: 199
 }
 
 function handleObject(anyobject){
