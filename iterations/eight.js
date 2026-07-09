@@ -29,4 +29,4 @@ const shoppingCart = [
     },
 ]
 
-const priceToPay = shoppingCart.reduce((acc, item) => acc + item.price, 0)
+ const priceToPay = shoppingCart.reduce((acc, item) => acc + item.price, 0) 
